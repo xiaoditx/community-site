@@ -6,3 +6,11 @@ __pycache__/
 # 系统/编辑器
 .DS_Store
 Thumbs.db
+.vscode
+
+# 日志文件
+*.log
+
+# 本地隐私文件夹
+# 一个允许开发者放点不适合被推送但是跟项目测试等关联很强的内容的文件夹
+.local-private
